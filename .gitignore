@@ -1,0 +1,15 @@
+#Ignore listed folders and files
+.vs/
+*.sln
+*.vcxproj*
+Swapping.c0b0660e 
+x64/
+
+# Ignore other files if needed
+*.tmp
+*.log
+
+#Include only 
+!main.cpp
+!swap.hpp
+!swapping.cpp
